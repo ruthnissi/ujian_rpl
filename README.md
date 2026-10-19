@@ -37,4 +37,4 @@ c) Data Diri (format TXT):
 - Kesan Pesan (terhadap PJ, asisten & LabTi)
 
 
-# Our team is making Daily Assignment Manager for this test
+Our team is making Daily Assignment Manager for this test
